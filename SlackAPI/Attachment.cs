@@ -18,6 +18,8 @@
         public string thumb_url;
         public string[] mrkdwn_in;
         public AttachmentAction[] actions;
+
+        public string callback_id;
     }
 
     public class Field{
